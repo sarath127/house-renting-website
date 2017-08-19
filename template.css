@@ -1,0 +1,98 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+
+#Holder
+{
+width:90px;
+height:auto;
+margin-left:auto;
+margin-right:auto;
+margin-top:21px;
+margin-bottom:21px;
+}
+#TopBar
+{
+height:70px;
+background-image:url(domicile.jpg);
+background-repeat:no-repeat;
+margin-bottom:11px;
+}
+#NavBar
+{
+height:60px;
+background-color:rgba(53,45,250,1.00);
+}
+#Content
+{
+	font-size: x-large;
+	overflow-y:scrool;
+	color: rgba(3,55,255,1);
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#Pageheading
+{
+	align-content:stretch;
+	margin-bottom:auto;
+	margin-top:auto;
+	margin-left:280px;
+	height:600px;
+}
+
+#Contentl
+{
+	overflow-y:scrool;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-style: italic;
+}
+#Contentr
+{
+
+}
+#Footer
+{ 
+height:180px;
+}
+.F
+{
+	border:1px solid #660000;
+	border-radius:10px;
+	width:280px;
+	height:40px;
+}
+.X
+{
+	border: 1px solid  rgba(7,12,247,1.00);
+	width: 280px;
+	height: 40px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-variant: small-caps;
+	color: rgba(58,0,255,1);
+	text-transform:lowercase;
+	text-align: center;
+}
+
+.Y
+{
+	
+	border: 1px solid  rgba(7,12,247,1.00);
+	width:280px;
+	height:35px;
+}
+h1
+{
+	color: rgba(7,12,247,1.00);
+	font-weight: bolder;
+	font-size: x-large;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-style: italic;
+}
+
+ 
+ 
+ 

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_country" value="name:country_id;datatype:int,name:country_name;datatype:string" />
+	<infoitem key="UD_state" value="name:state_id;datatype:int,name:country_id;datatype:int,name:state_name;datatype:string" />
+	<infoitem key="UD_district" value="name:district_id;datatype:int,name:state_id;datatype:int,name:district_name;datatype:string" />
+	<infoitem key="UD_user" value="name:user_id;datatype:int,name:user_name;datatype:string,name:Fname;datatype:string,name:Lname;datatype:string,name:Email;datatype:string,name:Password;datatype:string,name:Dob;datatype:string,name:Country;datatype:string,name:State;datatype:string,name:District;datatype:string,name:Contact_no;datatype:string,name:sex;datatype:string,name:religion;datatype:string,name:photo;datatype:string,name:time;datatype:timestamp" />
+	<infoitem key="UD_domicile" value="name:country_id;datatype:int,name:country_name;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:home_id;datatype:int,name:user_id;datatype:int,name:home_type;datatype:string,name:bedrooms;datatype:string,name:bathroom;datatype:string,name:halls;datatype:string,name:size;datatype:string,name:price;datatype:string,name:address;datatype:string,name:pin_number;datatype:string,name:title;datatype:string,name:description;datatype:string,name:area_information;datatype:string,name:service;datatype:string,name:photo;datatype:string,name:time;datatype:timestamp" />
+</info>
